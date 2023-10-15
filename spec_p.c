@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 /**
  * _spec_p - sends va_arg with appropirate tags into buffer
