@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _isFlagMinus - Bool check for if the stuct has a minus flag
  * @t: tags structure to check

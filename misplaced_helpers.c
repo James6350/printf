@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include main.h"
 /**
  * _error_ - placeholder for non-existing functions or functions to come
  */
