@@ -1,5 +1,6 @@
-#ifndef PRINTF_H
-#define PRINTF_H
+#ifndef MAIN_H
+#define MAIN_H
+/*This are the libraries used*/
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdarg.h>

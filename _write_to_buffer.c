@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _write - Add char to buffer, write and reset buffer if full.
  * @b_r: buffer to write
