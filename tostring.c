@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _int_to_str - convert an int into it's absolute value string
  * @n: number to convert
