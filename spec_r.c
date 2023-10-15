@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _spec_r - sends va_arg with appropriate tags into buffer
  * @b_r: a pointer to the struct buffer
